@@ -1,11 +1,25 @@
-Hola 🌎 
-Mi nombre es Andrea👋 soy Desarrolladora Front-End Trainne y una entusiasta aprendiz del código. Estoy terminando un bootcamp
-y comenzando un curso sobre IA en google.
-- 👀 Estoy interesada en seguir aprendiendo el lenguaje de programacion JavaScript
-- 🌱 Actualmente estoy aprendiendo Analisis de Datos y algo más.
-- 💞️ Estoy buscando colaborar en alguna empresa de manera voluntaria o remunerada para ejercitar el código.
-- 📫 Puedes contactarme a mi correo
-- ⚡ Dato divertido: Soy una excelente conversadora y amo cuidar a los animales.
+<div class="introduction my-3">
+<p><h1 class="fw-bold text-uppercase">Hola 🌎 
+Mi nombre es Andrea👋</h1> <strong class="fw-bold">soy Desarrolladora Front-End Trainne y una entusiasta aprendiz del código.</strong>. </p>
+<p>Estoy terminando un bootcamp y comenzando un curso sobre IA en google.</p>
+ <ul>
+  <li>
+   👀 Estoy interesada en seguir aprendiendo el lenguaje de programacion JavaScript
+  </li>
+  <li>
+   🌱 Actualmente estoy aprendiendo Analisis de Datos y algo más.
+  </li>
+   <li>
+    💞️ Estoy buscando colaborar en alguna empresa de manera voluntaria o remunerada para ejercitar el código.
+   </li>
+   <li>
+    📫 Puedes contactarme a mi correo
+   </li>
+   <li>
+    ⚡ Dato divertido: Soy una excelente conversadora y amo cuidar a los animales.
+   </li>
+ </ul>
+</div>
 
  <div class="skills my-3">
 <h2 class="fw-bold text-uppercase py-3"> Habilidades.</h2>
