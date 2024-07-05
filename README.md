@@ -7,6 +7,5 @@ y comenzando un curso sobre IA en google.
 - 📫 Puedes contactarme a mi correo
 - ⚡ Dato divertido: Soy una excelente conversadora y amo cuidar a los animales.
 
-                                           🧩HTML 🧩CSS 🧩JAVASCRIPT 🧩BOOTSTRAP 🧩VUE 🧩VUEX
-
+                                           
 
