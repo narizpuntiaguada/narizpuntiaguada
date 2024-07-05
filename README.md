@@ -1,5 +1,5 @@
 Hola 🌎 
-Mi nombre es Andrea👋 soy Desarrolladora Front-End Trainne y una entusiasta aprendiz del <codigo/>. Estoy terminando un bootcamp
+Mi nombre es Andrea👋 soy Desarrolladora Front-End Trainne y una entusiasta aprendiz del <codigo>. Estoy terminando un bootcamp
 y comenzando un curso sobre IA en google.
 
 
