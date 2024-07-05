@@ -1,17 +1,11 @@
 Hola 🌎 
-Mi nombre es Andrea Desarrolladora Front-End Trainne y una entusiasta aprendiz del <codigo/>.
+Mi nombre es Andrea,@narizpuntiaguada 👋, soy Desarrolladora Front-End Trainne y una entusiasta aprendiz del <codigo/>. Estoy terminando un bootcamp
+y comenzando un curso sobre IA en google.
 
 
+- 👀 Estoy interesada en seguir aprendiendo el lenguaje de programacion JavaScript
+- 🌱 Actualmente estoy aprendiendo Analisis de Datos y algo más.
+- 💞️ Estoy buscando colaborar en alguna empresa de manera voluntaria o remunerada para ejercitar el código.
+- 📫 Puedes contactarme a mi correo
+- ⚡ Dato divertido: Soy una excelente conversadora y amo cuidar a los animales.
 
-- 👋 Hi, I’m @narizpuntiaguada
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-narizpuntiaguada/narizpuntiaguada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
