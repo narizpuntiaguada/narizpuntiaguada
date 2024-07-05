@@ -16,7 +16,7 @@ Mi nombre es Andrea👋</h1> <strong class="fw-bold">Desarrolladora Front-End Tr
     📫 Puedes contactarme a mi correo
    </li>
    <li>
-    ⚡ Dato divertido: Soy una excelente conversadora y amo cuidar a los animales.
+    ⚡ Dato divertido: Excelente conversadora y  me gusta cuidar animales.
    </li>
  </ul>
 </div>
