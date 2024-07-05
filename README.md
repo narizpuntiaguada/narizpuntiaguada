@@ -7,5 +7,5 @@ y comenzando un curso sobre IA en google.
 - 📫 Puedes contactarme a mi correo
 - ⚡ Dato divertido: Soy una excelente conversadora y amo cuidar a los animales.
 
-                                           
+       <img class="mx-2" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />                                     
 
