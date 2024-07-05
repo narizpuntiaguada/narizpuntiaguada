@@ -7,8 +7,8 @@ y comenzando un curso sobre IA en google.
 - 📫 Puedes contactarme a mi correo
 - ⚡ Dato divertido: Soy una excelente conversadora y amo cuidar a los animales.
 
- <div class="Habilidades my-3">
-<h2 class="fw-bold text-uppercase py-3">⌨️ Skills.</h2>
+ <div class="skills my-3">
+<h2 class="fw-bold text-uppercase py-3"> Habilidades.</h2>
 
 <div class="d-flex g-3 flex-row flex-wrap g-3">
 <img class="mx-2" alt="Vue JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
