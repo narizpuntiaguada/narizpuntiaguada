@@ -7,6 +7,6 @@ y comenzando un curso sobre IA en google.
 - 📫 Puedes contactarme a mi correo
 - ⚡ Dato divertido: Soy una excelente conversadora y amo cuidar a los animales.
 
-<a href="https://www.flaticon.es/iconos-gratis/github" title="github iconos"></a>
+                                           🧩HTML 🧩CSS 🧩JAVASCRIPT 🧩BOOTSTRAP 🧩VUE 🧩VUEX
 
 
