@@ -1,6 +1,6 @@
 <div class="introduction my-3">
 <p><h1 class="fw-bold text-uppercase">Hola 🌎 
-Mi nombre es Andrea👋</h1> <strong class="fw-bold">Desarrolladora Front-End Trainne y una aprendiz del código.</strong>. </p>
+Mi nombre es Andrea👋</h1> <strong class="fw-bold">Desarrolladora Front-End Vue Trainne y una aprendiz del código.</strong>. </p>
 <p>Estoy terminando un bootcamp y comenzando un curso sobre IA en google.</p>
  <ul>
   <li>
